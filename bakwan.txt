@@ -1,10 +1,6 @@
-    KENl4DDOSTOOLS
+KENl4DDOSTOOLS
 ======================
-1.
-user:ken
-pass:ken
-
-2.
-user:chat
-pass:chat
-=======================
+user: ken pass: ken
+user: chat pass: chat
+user: wak pass: mode
+======================
